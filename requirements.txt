@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain_ollama
+langchain-community
+langdetect
+google-search-results
+python-dotenv
